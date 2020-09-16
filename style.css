@@ -1,0 +1,31 @@
+
+
+body{
+    background-image: url(fish.jpg);
+
+}
+ul{
+    font-weight: bolder;
+    color:#1C2541
+}
+
+li{
+    text-align: left;
+    font-weight: normal;
+    color:#1C2541;
+    list-style: none;
+}
+p{
+    color:#1C2541
+}
+h1{
+    color:#1C2541
+}
+img{
+    width: 100%;
+}
+button{
+    color:blue;
+
+}
+
